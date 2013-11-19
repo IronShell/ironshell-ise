@@ -1,4 +1,4 @@
-ironshell-ise
+IronShell-ISE
 =============
 
 IronShell Integrated Scripting Environment (ISE)
